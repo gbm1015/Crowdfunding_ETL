@@ -4,7 +4,7 @@
 
 We (Gabrielle Bedewi, Max Glasser, and Joel Wiseman) partnered to practice building an ETL pipeline using Python, Pandas, and then used Python dictionary methods and regular expressions to extract and transform the data.  After transforming the data we created four CSV files and used the CSV file data to create an ERD and a table schema.  We then uploaded the CSV file data into a Postgres database.
 
-### Before opening the starter codes in Jupyter Notebook
+### Before opening the starter code in Jupyter Notebook
 
 1. We created a new repository in GitHub for this project called `Crowdfunding_ETL`. 
 2. Inside the new repository we cloned the new repository to our computers.
