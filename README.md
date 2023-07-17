@@ -28,7 +28,7 @@ We (Gabrielle Bedewi, Max Glasser, and Joel Wiseman) partnered to practice build
 5. Used the database schema, and created the tables in the correct order (campaign table was last) to handle the foreign keys.
 6. Verified the table creation by running a SELECT statement for each table.
 7. Imported each CSV file into its corresponding SQL table.
-8. Verified that each table had the correct data by running a SELECT statement for each.  Added screenshots of tables; in some cases they were partial tables (not complete rows and/or columns counts).
+8. Verified that each table had the correct data by running a SELECT statement for each.  Added screenshots of tables; in some cases they were partial tables (not complete rows and/or column counts).
 
 ## References
 
